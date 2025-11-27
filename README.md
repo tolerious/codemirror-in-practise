@@ -11,3 +11,7 @@ A runnable demo website for codemirror 6.
 - Language Package
 - Selection Handling
 - ...
+
+## How to see?
+- npm/pnpm i
+- npm/pnpm dev
