@@ -2,7 +2,7 @@ import { createRouter, createWebHistory, type RouteRecordRaw } from "vue-router"
 import HomePage from "@/components/HomePage.vue";
 import Header from "@/components/layout/HeaderComponent.vue";
 import Footer from "@/components/layout/FooterComponent.vue";
-import BasicEditor from "@/components/BasicEditor.vue";
+import BasicEditor from "@/components/BasicEditor/BasicEditor.vue";
 import { RouterName } from "@/constant.ts";
 
 const defaultComponents = { header: Header, footer: Footer };
